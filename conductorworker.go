@@ -17,7 +17,7 @@ import (
 	"os"
 	"time"
 	"log"
-	"conductor/task"
+	"github.com/Rixius/go-conductor/task"
 )
 
 var (
