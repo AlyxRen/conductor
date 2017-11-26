@@ -14,7 +14,7 @@
 package conductor
 
 import (
-    "github.com/Rixius/go-conductor/httpclient"
+    "github.com/rixius/conductor/httpclient"
     "strconv"
     "log"
 )
